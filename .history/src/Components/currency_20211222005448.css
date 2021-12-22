@@ -1,0 +1,7 @@
+.fr-currency{
+    padding: 10px;
+    background-image: -o-linear-gradient(
+        180deg,
+        red 0
+    );
+}
