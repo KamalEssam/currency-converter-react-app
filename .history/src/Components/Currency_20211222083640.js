@@ -3,7 +3,7 @@ import CurrencyForm from './CurrencyForm'
 import CurrencyList from './CurrencyList'
 import Axios from 'axios';
 import './currency.css';
-import {BsCurrencyExchange} from 'react-icons/bs';
+import BsCurrencyExchange from 'react-icons/bs';
 
 export default function Currency() {
 

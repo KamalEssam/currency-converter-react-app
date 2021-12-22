@@ -3,7 +3,7 @@ import CurrencyForm from './CurrencyForm'
 import CurrencyList from './CurrencyList'
 import Axios from 'axios';
 import './currency.css';
-import {BsCurrencyExchange} from 'react-icons/bs';
+import from ''
 
 export default function Currency() {
 
@@ -74,7 +74,7 @@ export default function Currency() {
 
     return (
         <div className='currency-app'>
-            <h1 className='currency-text'> Currencies Exchange App  <BsCurrencyExchange /> </h1>
+            <h1 className='currency-text'> Currencies Exchange App </h1>
 
             <CurrencyForm
                 onAmountChange={onChangeFrAmount}
